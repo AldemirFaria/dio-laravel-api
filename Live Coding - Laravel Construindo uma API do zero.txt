@@ -1,0 +1,17 @@
+=======================================================================
+Live Coding - Laravel: Construindo uma API do zero
+=======================================================================
+O Laravel é o framework mais utilizado do PHP e um dos mais utilizados no mundo Web. E isso obviamente não é por acaso. Conheça um pouco mais sobre o Laravel nessa Live Coding, onde faremos juntos uma API do zero e você aprenderá NA PRÁTICA alguns conceitos fundamentais dessa ferramenta incrível!
+=======================================================================
+LINKS:
+
+https://youtu.be/1DfMHMD5ubI
+
+https://github.com/danbonattis/dio-laravel-api
+=======================================================================
+PRÉ-REQUISITOS:
+
+1. PHP (7.1 para versão 5.7 do framework)
+2. Composer
+3. Servidor HTTP (NGINX, Apache) - Opcional
+=======================================================================
